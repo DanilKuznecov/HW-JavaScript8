@@ -1,0 +1,8 @@
+.qube {
+    width: 500px;    
+    height: 500px;    
+    margin: 100px auto;
+    background: blue;
+    border: solid 5px black;
+    transition: 1s;
+}
